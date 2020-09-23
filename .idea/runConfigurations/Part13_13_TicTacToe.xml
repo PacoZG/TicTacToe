@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part13_13.TicTacToe" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ticTacToe.App" />
+    <module name="Part13_13.TicTacToe" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
